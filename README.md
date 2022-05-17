@@ -3,7 +3,7 @@ My Sonic Fan Game
 
 Getting The Game Running On Windows, Mac, And Even Linux! is very simple
 
-#Running it in your browser
+# Running it in your browser
 the browser method is the best known method because i made the game in scratch.
 simply go to https://eelonline.github.io/sonicswapped.html to play the game
 the game is a beta right now and is currently being worked on.
